@@ -1,2 +1,2 @@
 # test
-Цой жив!
+Make science great again!
